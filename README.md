@@ -1,12 +1,18 @@
 PYANNET
 =======
 
-A Python package for optimising FE simulations.
+A Python package for deep multi-output regressions.
 
 Installation
 ------------
 
-Run
+Clone the repository
+
+''''''
+git clone https://github.com/neo0311/pyannet.git
+''''''
+
+Run 
 
 ```
 python -m pip install -e ".[dev]"
